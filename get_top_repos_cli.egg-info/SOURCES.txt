@@ -1,0 +1,8 @@
+setup.py
+get_top_repos/__init__.py
+get_top_repos/__main__.py
+get_top_repos_cli.egg-info/PKG-INFO
+get_top_repos_cli.egg-info/SOURCES.txt
+get_top_repos_cli.egg-info/dependency_links.txt
+get_top_repos_cli.egg-info/entry_points.txt
+get_top_repos_cli.egg-info/top_level.txt
