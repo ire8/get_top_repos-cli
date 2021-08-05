@@ -8,4 +8,3 @@ get_top_repos username
 
 For help:
 get_top_repos -h
-get_top_repos --help
